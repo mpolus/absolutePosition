@@ -1,0 +1,20 @@
+.container {
+    height: 700px;
+    background-color: pink;
+    position: relative;
+}
+
+#image-1 {
+    position: absolute;
+    width: 25%;
+    bottom: 15px;
+    left: 35px;
+
+}
+
+#image-2 {
+    position: absolute;
+    width: 20%;
+    top: 15px;
+    left: 35px;
+}
